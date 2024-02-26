@@ -139,7 +139,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "../storhaus.jpeg",
+    img: "../storhaus.webp",
     role: "Web Development & Operations",
     company: "Storhaus",
     date: "Sept 2022 - Present (part-time)",
@@ -156,7 +156,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "../fire.jpeg",
+    img: "../fire.webp",
     role: "Customer Success Manager",
     company: "Fire Financial Services Limited",
     date: "Feb 2020 - Sept 2022",
@@ -171,7 +171,7 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "../fire.jpeg",
+    img: "../fire.webp",
     role: "Operations and Product Analyst",
     company: "Fire Financial Services Limited",
     date: "Feb 2018 - Feb 2020  ",
@@ -197,7 +197,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "../ux_design.jpeg",
+    img: "../ux_design.webp",
     school: "UX Design Institute",
     date: "June 2020 - July 2021",
     grade: "Pass",
@@ -241,7 +241,7 @@ export const projects = [
     description:
       "Laynta is an Irish literature directory website built allowing users to discover and explore Irish literature. Users can search for authors, plays, and poems, and view detailed information about each. The website is built using Next, enabling SSR to improve SEO and performance, and is hosted on Vercel.",
     image:
-      "../laynta.png",
+      "../laynta.webp",
     tags: [
       "React",
       "Next",
@@ -260,7 +260,7 @@ export const projects = [
     description:
       "A distributed systems group project built using React, Express, Flask and MongoDB. It utilises docker, rabbitmq, eureka and redis to achieve scalability and fault-tolerance. Aggregates loan services from multiple providers and allows users to compare and contrast loan options.",
     image:
-      "../service-aggregator.png",
+      "../service-aggregator.webp",
     tags: [
       "React",
       "Express",
@@ -281,7 +281,7 @@ export const projects = [
     description:
       "Trees of Dublin (Coillte na Cathrach) is an interactive map application designed to provide a comprehensive and user-friendly guide to the diverse trees scattered throughout Dublin city. This digital tool serves as resource for both locals and tourists alike to provide insights into the city's arboreal heritage.",
     image:
-      "../treesofdublin.png",
+      "../treesofdublin.webp",
     tags: [
       "React",
       "Node",
@@ -302,7 +302,7 @@ export const projects = [
     description:
       "AfterParty is an advanced event impact analysis tool designed to predict the effects of large-scale events on urban areas, with a specific focus on Manhattan during significant events like St. Patrick's Day. This project integrates machine learning algorithms with a detailed, interactive front-end to provide predictive insights into urban mobility and event impacts.",
     image:
-      "../afterparty.png",
+      "../afterparty.webp",
     tags: [
       "React",
       "Node",
@@ -323,7 +323,7 @@ export const projects = [
     description:
       "Built a jobsboard for software developers in Ireland using Bubble.io, a no-code platform. The website is designed to be a resource for software developers to find jobs in Ireland, and for companies to post job listings. The website was built using Bubble.io, and was through Bubble as well",
     image:
-      "../djara.png",
+      "../djara.webp",
     tags: [
       "Bubble.io",
       "HTML",
