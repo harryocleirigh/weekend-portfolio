@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "Harry Ó Cléirigh",
+  name: "Harry Ó Cleirigh ",
   roles: [
     "Full Stack Developer",
     "Front End Developer",
@@ -7,7 +7,7 @@ export const Bio = {
     "Node Developer",
   ],
   description:
-    "Navigating the journey from Customer Success to Software Engineering, I bring a unique fusion of deep client engagement experience and an emerging passion for frontend development, digital products, and UX design.",
+    "I'm passionate about developing robust and scalable frontend solutions that put the user at the centre of the product.",
   github: "https://github.com/harryocleirigh",
   linkedin: "https://www.linkedin.com/in/harry-%C3%B3-97818b14a/",
 };
@@ -139,7 +139,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/D4E0BAQGsr3XuxHTbtg/company-logo_100_100/0/1696690758265/storhaus_io_logo?e=1717027200&v=beta&t=PFy5SkVNDdtkGEOewG0ds9noy1AfTAFEU5InFCUUzdU",
+    img: "../storhaus.jpeg",
     role: "Web Development & Operations",
     company: "Storhaus",
     date: "Sept 2022 - Present (part-time)",
@@ -156,7 +156,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/C510BAQECi5AOni8ypA/company-logo_200_200/0/1631390999892?e=1717027200&v=beta&t=7GSP4Kp6qAAEXe_YA3TTVgTZXS9r4Kf_tLdl2cK9CCw",
+    img: "../fire.jpeg",
     role: "Customer Success Manager",
     company: "Fire Financial Services Limited",
     date: "Feb 2020 - Sept 2022",
@@ -171,7 +171,7 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/C510BAQECi5AOni8ypA/company-logo_200_200/0/1631390999892?e=1717027200&v=beta&t=7GSP4Kp6qAAEXe_YA3TTVgTZXS9r4Kf_tLdl2cK9CCw",
+    img: "../fire.jpeg",
     role: "Operations and Product Analyst",
     company: "Fire Financial Services Limited",
     date: "Feb 2018 - Feb 2020  ",
@@ -196,8 +196,8 @@ export const education = [
     degree: "MSc Computer Science",
   },
   {
-    id: 0,
-    img: "  https://media.licdn.com/dms/image/C560BAQGvVtxdbh_4yw/company-logo_200_200/0/1630593860357/uxdihq_logo?e=1717027200&v=beta&t=wEMA9SY25f5nigI6DtwjqnbPphJ-i49lq_BZACJb3h4",
+    id: 1,
+    img: "../ux_design.jpeg",
     school: "UX Design Institute",
     date: "June 2020 - July 2021",
     grade: "Pass",
