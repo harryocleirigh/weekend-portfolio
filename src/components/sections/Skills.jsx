@@ -134,7 +134,7 @@ const Skills = () => {
     <motion.div {...headTextAnimation}>
     <Container id="Skills">
       <Wrapper>
-        <Title>Coding Languages & Tools</Title>
+        <Title>Technologies & Frameworks</Title>
         <motion.div {...headContainerAnimation}>
         <SkillsContainer>
           {skills.map((skill, index) => (

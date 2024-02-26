@@ -2,7 +2,7 @@ export const Bio = {
   name: "Harry Ó Cleirigh ",
   roles: [
     "Full Stack Developer",
-    "Front End Developer",
+    "Frontend Developer",
     "React Developer",
     "Node Developer",
   ],
