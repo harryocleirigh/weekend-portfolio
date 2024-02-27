@@ -293,7 +293,7 @@ export const projects = [
       "Docker"
     ],
     github: "https://github.com/harryocleirigh/coilltenacathrach",
-    webapp: "https://www.laynta.com/",
+    webapp: "https://treesofdublin.com/",
   },
   {
     id: 11,
