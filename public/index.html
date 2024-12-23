@@ -39,4 +39,11 @@
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
   </body>
+  <script>
+    (function (l, e, v, _e, _l, h, _h) { 
+      l[_e] = l[_e] || function () { (l[_e].listOfParams = l[_e].listOfParams || []).push(arguments);};
+      h = e.createElement(v); _h = e.getElementsByTagName(v)[0]; h.id = _e; h.src = _l; h.async = true; _h.parentNode.insertBefore(h, _h);
+    })( window, document, "script", "chat", "https://s3.eu-west-1.amazonaws.com/test.rapport.area22.app/lh-demo/lh-widget.js");
+    chat("init", { agentId: "eea609f7-50af-4ea4-b991-ca27dc463d3e" }, { agentVersion: "v1" }, { agentDisplayName: "Test Name" })
+  </script>
 </html>
